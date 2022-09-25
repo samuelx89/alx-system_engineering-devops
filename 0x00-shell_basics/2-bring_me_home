@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-Bring me home
-=======
->>>>>>> 1b660b3672055c9711004e7bde421a128d6dc300
-cd ~
+cd
